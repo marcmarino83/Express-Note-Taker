@@ -1,0 +1,12 @@
+[
+    {
+      "id": "1a2b3c4d",
+      "title": "First Note",
+      "text": "This is the content of the first note."
+    },
+    {
+      "id": "5e6f7g8h",
+      "title": "Second Note",
+      "text": "This is the content of the second note."
+    }
+  ]
