@@ -23,7 +23,7 @@ To use this application locally and contribute to its development, follow these 
 Usage
 
         - Run the application using node server.js.
-        - Open your web browser and visit http://localhost:3000.
+        - Open your web browser and visit http://localhost:3001.
 
 Contributing
 
@@ -37,3 +37,24 @@ Questions
 If you have any questions, feel free to reach out:
 
 GitHub: marcmarino83
+
+
+        Express-Note-Taker
+            ├── Assets
+            ├── Develop
+            │   ├── db
+            │   ├── node_modules
+            │   ├── public
+            │   │     ├── assets
+            │   │     │     ├── css
+            │   │     │     │    └── style.css
+            │   │     │     └── js
+            │   │     │          ├── index.js
+            │   │     │          └── script.js
+            │   │     ├── index.html
+            │   │     └── notes.html
+            │   └── routes  
+            │          └── index.js
+            ├── package-lock.json
+            ├── package.json
+            └── server.js
